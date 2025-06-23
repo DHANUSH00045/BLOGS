@@ -3,12 +3,6 @@
  padding: 0;  
  box-sizing: border-box; 
 }
-.container{
-    width: 100%;
-    min-height: 100vh;
-    border: 5px solid rgb(125, 226, 125);
-}
-
 .blogs{
     width: 80%;
     margin: 0px auto;
